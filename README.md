@@ -1,6 +1,3 @@
-# Brain_Stroke_Prediction
-Data Science Project 
-
 # 🧠 Brain Stroke Prediction Using R
 
 This project leverages machine learning models to predict the likelihood of a brain stroke based on various patient health metrics. Built in R, the pipeline covers everything from data cleaning to model evaluation using both Logistic Regression and Random Forest techniques.
